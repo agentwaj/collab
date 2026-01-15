@@ -9,3 +9,4 @@ peter.norvig@gmail.com
 cassidoo@gmail.com
 git@sa.my
 riverscuomo@users.noreply.github.com
+joel@spolsky.com
