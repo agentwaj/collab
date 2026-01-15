@@ -1,2 +1,3 @@
 agentwaj@gmail.com
 torvalds@linux-foundation.org
+andrej.karpathy@gmail.com
