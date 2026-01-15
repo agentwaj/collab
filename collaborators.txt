@@ -5,3 +5,4 @@ jeff@google.com
 guido@python.org
 timbl+github@w3.org
 andersh@microsoft.com
+peter.norvig@gmail.com
