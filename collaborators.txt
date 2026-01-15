@@ -6,3 +6,4 @@ guido@python.org
 timbl+github@w3.org
 andersh@microsoft.com
 peter.norvig@gmail.com
+cassidoo@gmail.com
