@@ -16,3 +16,4 @@ bjarne@stroustrup.com
 dan.abramov@gmail.com
 lydiajuliettehallie@gmail.com
 jw@jakewharton.com
+evan@vuejs.org
