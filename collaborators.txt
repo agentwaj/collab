@@ -13,3 +13,4 @@ joel@spolsky.com
 karliekloss@gmail.com
 brendan@mozilla.org
 bjarne@stroustrup.com
+dan.abramov@gmail.com
